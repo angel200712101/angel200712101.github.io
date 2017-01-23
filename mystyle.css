@@ -14,6 +14,9 @@ body {
       border: 7px #00304e;
       border-radius: 20px;
     }
+header{
+	text-align:center;
+}
     ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
