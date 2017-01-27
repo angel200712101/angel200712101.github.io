@@ -46,7 +46,7 @@ table {
     width: 100%;
 }
 
-td, tr {
+td, th {
     border-collapse: collapse;
     width: 100%;
 }
