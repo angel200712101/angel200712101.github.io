@@ -49,12 +49,13 @@ table {
 td, th {
     border-collapse: collapse;
     width: 100%;
+    text-align:center;
 }
 
 td, th {
     border: 1px solid #dddddd;
     text-align: center;
-    padding: 8px;
+    padding: 10px;
 }
 
 tr:nth-child(even) {
